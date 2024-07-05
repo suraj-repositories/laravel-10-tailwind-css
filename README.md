@@ -79,4 +79,11 @@ npm run build
 php artisan cache:clear
 php artisan optimize
 ```
+### When download this project
+- when you download this project you have to install all the vendor libs for your project. you can do this by using the following command
+```sh
+composer install
+```
 
+<br /><br />
+<p align="center">⭐️ Star my repository if you find it helpful.</p>
