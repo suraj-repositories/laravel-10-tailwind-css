@@ -74,7 +74,7 @@ npm run build
 ```
 
 ### Further steps
-- In between for some reason your chages are not reflecting to your web application use the following command to clear your cache and optimize your application
+- In between for some reason your changes are not reflecting to your web application use the following command to clear your cache and optimize your application
 ```sh
 php artisan cache:clear
 php artisan optimize
